@@ -195,7 +195,7 @@ except FileNotFoundError:
 
 st.markdown("""
 <div class="profile-card">
-    <h2>ขตุรภัทร สถาปิตานนท์</h2>
+    <h2>จตุรภัทร สถาปิตานนท์</h2>
     <div class="info-row">
         <span class="label">รหัสนักศึกษา</span>
         <span class="value">664245024</span>
